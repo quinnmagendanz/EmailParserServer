@@ -1,0 +1,1 @@
+a=b;suite=(room1,room2);hobbits=(frodo@shire, bilbo@shire, sam@shire, pippin@shire, merry@shire);room1=(eve@mit.edu);fellowship=();room2=(bob@mit.edu);strider=(aragorn@arnor);

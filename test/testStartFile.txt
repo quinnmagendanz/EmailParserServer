@@ -1,0 +1,4 @@
+a = q@m.mit.edu, cam@woo.com; hello@me
+newOne = a * cam@woo.com
+oldOne = q@m.mit.edu
+wow = a ! oldOne; b = c@c
